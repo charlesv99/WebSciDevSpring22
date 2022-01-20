@@ -1,0 +1,1150 @@
+{
+   "rss": {
+      "channel": {
+         "title": "artforum.com",
+         "link": [
+            "https://www.artforum.com/",
+            {
+               "_rel": "self",
+               "_type": "application/rss+xml",
+               "_href": "https://www.artforum.com/"
+            }
+         ],
+         "description": "News and critiques of exhibitions in the visual arts, with a contemporary focus. Includes world news, critics' picks, live symposia, interviews, archives, event calendar, and links to related sites.",
+         "language": [
+            "en_US",
+            {
+               "__text": "en_US"
+            }
+         ],
+         "copyright": "Copyright 2022 Artforum International Magazine",
+         "lastBuildDate": "Tue, 18 Jan 2022 18:18:44 -0500",
+         "pubDate": "Tue, 18 Jan 2022 18:18:44 -0500",
+         "date": {
+            "__text": "2022-01-18 18:18:44"
+         },
+         "rights": {
+            "__text": "All rights reserved. artforum.com is a registered trademark of Artforum International Magazine, New York, NY."
+         },
+         "webMaster": "webmaster@artforum.com",
+         "item": [
+            {
+               "title": "Raymond Saunders",
+               "link": [
+                  "https://www.artforum.com/picks/raymond-saunders-87630",
+                  {
+                     "_href": "https://www.artforum.com/picks/raymond-saunders-87630"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/picks/raymond-saunders-87630"
+               },
+               "description": "Perhaps universally, blackboards conjure images of a teacher&rsquo;s neat handwriting, lines of arithmetic, or other mundane memories of rote instruction. But touched by Raymond Saunders&rsquo;s wayward, hermetic",
+               "creator": {
+                  "__text": "Zoë Hopkins"
+               },
+               "pubDate": "Tue, 18 Jan 2022 18:18:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Andrew%20Kreps%20Gallery%2C%20New%20York",
+                     "__text": "Andrew Kreps Gallery, New York"
+                  },
+                  {
+                     "_domain": "https://www.artforum.com/search?search=New%20York",
+                     "__text": "New York"
+                  }
+               ]
+            },
+            {
+               "title": "Zdenka Badovinac to Lead Zagreb Museum of Contemporary Art",
+               "link": [
+                  "https://www.artforum.com/news/zdenka-badovinac-to-lead-zagreb-museum-of-contemporary-art-87635",
+                  {
+                     "_href": "https://www.artforum.com/news/zdenka-badovinac-to-lead-zagreb-museum-of-contemporary-art-87635"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/zdenka-badovinac-to-lead-zagreb-museum-of-contemporary-art-87635"
+               },
+               "description": "Curator and writer Zdenka Badovinac, who in December 2020 was forced by Slovenia&rsquo;s new right-wing government from her post as director of Ljubljana&rsquo;s Moderna Galerija, a position she had held since",
+               "creator": {},
+               "pubDate": "Tue, 18 Jan 2022 15:57:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Veteran Director Victoria Siddall Leaves Frieze",
+               "link": [
+                  "https://www.artforum.com/news/veteran-director-victoria-siddall-leaves-frieze-87634",
+                  {
+                     "_href": "https://www.artforum.com/news/veteran-director-victoria-siddall-leaves-frieze-87634"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/veteran-director-victoria-siddall-leaves-frieze-87634"
+               },
+               "description": "Victoria Siddall, board director at Frieze, will depart her role there in March after eighteen years with the organization. Siddall, who cast her decision to step down as a &ldquo;difficult&rdquo; one, is the latest",
+               "creator": {},
+               "pubDate": "Tue, 18 Jan 2022 15:17:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Bill Callahan and Will Oldham on Blind Date Party",
+               "link": [
+                  "https://www.artforum.com/video/bill-callahan-and-will-oldham-on-blind-date-party-87626",
+                  {
+                     "_href": "https://www.artforum.com/video/bill-callahan-and-will-oldham-on-blind-date-party-87626"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/video/bill-callahan-and-will-oldham-on-blind-date-party-87626"
+               },
+               "description": "In this interview with Artforum and Bookforum contributor Sasha Frere-Jones, singer-songwriters Bill Callahan and Will Oldham (aka Bonnie Prince Billy) talk about their latest album, Blind Date Party.",
+               "creator": {},
+               "pubDate": "Tue, 18 Jan 2022 00:00:00 -0500"
+            },
+            {
+               "title": "Sreshta Rit Premnath on finding hope at the margins",
+               "link": [
+                  "https://www.artforum.com/interviews/sreshta-rit-premnath-on-finding-hope-at-the-margins-87617",
+                  {
+                     "_href": "https://www.artforum.com/interviews/sreshta-rit-premnath-on-finding-hope-at-the-margins-87617"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/interviews/sreshta-rit-premnath-on-finding-hope-at-the-margins-87617"
+               },
+               "description": "Sreshta Rit Premnath abstracts materials associated with the architecture and institutions of confinement and control&mdash;chain-link fencing, metal barriers, aluminum sheets, Mylar blankets, foam",
+               "creator": {
+                  "__text": "As told to Murtaza Vali"
+               },
+               "pubDate": "Mon, 17 Jan 2022 14:02:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/interviews",
+                     "__text": "Interviews"
+                  }
+               ]
+            },
+            {
+               "title": "Tate Liverpool Plans $34 Million Gallery Overhaul",
+               "link": [
+                  "https://www.artforum.com/news/tate-liverpool-plans-34-million-gallery-overhaul-87624",
+                  {
+                     "_href": "https://www.artforum.com/news/tate-liverpool-plans-34-million-gallery-overhaul-87624"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/tate-liverpool-plans-34-million-gallery-overhaul-87624"
+               },
+               "description": "Tate Liverpool has launched a search for an architect to oversee a &pound;25 million ($34 million) restoration of its facilities. The museum occupies a landmark brick structure on the Royal Albert Dock dating",
+               "creator": {},
+               "pubDate": "Mon, 17 Jan 2022 12:56:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Nicole Chaput",
+               "link": [
+                  "https://www.artforum.com/picks/nicole-chaput-87623",
+                  {
+                     "_href": "https://www.artforum.com/picks/nicole-chaput-87623"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/picks/nicole-chaput-87623"
+               },
+               "description": "Nicole Chaput&rsquo;s solo exhibition &ldquo;Atomic Venus&rdquo; convenes a boisterous ensemble of female characters (or, more fittingly, entities) performing impossible contortions. Their bones, veins, muscles, and",
+               "creator": {
+                  "__text": "Fabiola Iza"
+               },
+               "pubDate": "Sun, 16 Jan 2022 10:22:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Galer%C3%ADa%20Karen%20Huber%2C%20Mexico%20City",
+                     "__text": "Galería Karen Huber, Mexico City"
+                  },
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Mexico%20City",
+                     "__text": "Mexico City"
+                  }
+               ]
+            },
+            {
+               "title": "Robert Cumming (1943–2021)",
+               "link": [
+                  "https://www.artforum.com/passages/robert-cumming-1943-2021-87620",
+                  {
+                     "_href": "https://www.artforum.com/passages/robert-cumming-1943-2021-87620"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/passages/robert-cumming-1943-2021-87620"
+               },
+               "description": "YOU MIGHT THINK it would be difficult to photocopy your own obituary from a major US newspaper and mail it off to somebody. Yet Robert Cumming did just that in 2011. He sent me his 1995 obit from",
+               "creator": {
+                  "__text": "Sarah Bay Gachot"
+               },
+               "pubDate": "Fri, 14 Jan 2022 10:23:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/passages",
+                     "__text": "Passages"
+                  }
+               ]
+            },
+            {
+               "title": "Dieter von Graffenried (1953–2021)",
+               "link": [
+                  "https://www.artforum.com/news/dieter-von-graffenried-1953-2021-87622",
+                  {
+                     "_href": "https://www.artforum.com/news/dieter-von-graffenried-1953-2021-87622"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/dieter-von-graffenried-1953-2021-87622"
+               },
+               "description": "Dieter von Graffenried, publisher of the acclaimed international art journal Parkett, of which he was also a cofounder, died December 19 at the age of sixty-eight. According to the journal, he experienced",
+               "creator": {},
+               "pubDate": "Thu, 13 Jan 2022 14:44:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "David Graeber and David Wengrow’s new history of humanity",
+               "link": [
+                  "https://www.artforum.com/books/david-graeber-and-david-wengrow-s-new-history-of-humanity-87619",
+                  {
+                     "_href": "https://www.artforum.com/books/david-graeber-and-david-wengrow-s-new-history-of-humanity-87619"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/books/david-graeber-and-david-wengrow-s-new-history-of-humanity-87619"
+               },
+               "description": "THE DAWN OF EVERYTHING, BY DAVID GRAEBER AND&nbsp;DAVID WENGROW. New York: Farrar, Straus and Giroux, 2021. 704 pages.\n\n\nONE OF THE MAIN PROPOSITIONS&nbsp;that David Graeber and David Wengrow put forth in The",
+               "creator": {
+                  "__text": "Simon Wu"
+               },
+               "pubDate": "Thu, 13 Jan 2022 12:19:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/books",
+                     "__text": "Books"
+                  }
+               ]
+            },
+            {
+               "title": "More US Museum Staffers Unionize as Pandemic Drags On; Institutions Increase Incentives",
+               "link": [
+                  "https://www.artforum.com/news/more-us-museum-staffers-unionize-as-pandemic-drags-on-institutions-increase-incentives-87621",
+                  {
+                     "_href": "https://www.artforum.com/news/more-us-museum-staffers-unionize-as-pandemic-drags-on-institutions-increase-incentives-87621"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/more-us-museum-staffers-unionize-as-pandemic-drags-on-institutions-increase-incentives-87621"
+               },
+               "description": "As the Covid-19 crisis looks set to enter its third year, US museum workers, many of whose jobs were precarious or attached to low wages even prior to the pandemic, continue to push for unionization in",
+               "creator": {},
+               "pubDate": "Thu, 13 Jan 2022 11:45:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "“Spinning East Asia Series I: A Compass in Hand”",
+               "link": [
+                  "https://www.artforum.com/picks/spinning-east-asia-series-i-a-compass-in-hand-87604",
+                  {
+                     "_href": "https://www.artforum.com/picks/spinning-east-asia-series-i-a-compass-in-hand-87604"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/picks/spinning-east-asia-series-i-a-compass-in-hand-87604"
+               },
+               "description": "Showcasing fifteen individuals and collectives working within an expanded notion of textiles, &ldquo;Spinning East Asia Series I: A Compass in Hand&rdquo; explores the titular region as a sociopolitical, geographic,",
+               "creator": {
+                  "__text": "Nuit Banai"
+               },
+               "pubDate": "Wed, 12 Jan 2022 12:38:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/search?search=CHAT%20%28Centre%20for%20Heritage%2C%20Arts%20and%20Textile%29%2C%20Hong%20Kong",
+                     "__text": "CHAT (Centre for Heritage, Arts and Textile), Hong Kong"
+                  },
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Hong%20Kong",
+                     "__text": "Hong Kong"
+                  }
+               ]
+            },
+            {
+               "title": "Warhol Foundation Announces Fall 2021 Grantees",
+               "link": [
+                  "https://www.artforum.com/news/warhol-foundation-announces-fall-2021-grantees-87618",
+                  {
+                     "_href": "https://www.artforum.com/news/warhol-foundation-announces-fall-2021-grantees-87618"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/warhol-foundation-announces-fall-2021-grantees-87618"
+               },
+               "description": "The Andy Warhol Foundation for the Visual Arts has revealed the forty-nine recipients of its fall 2021 grants, which total $4.1 million and are issued to museums and arts organizations in support of",
+               "creator": {},
+               "pubDate": "Wed, 12 Jan 2022 10:25:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Guillaume Désanges to Lead Palais de Tokyo",
+               "link": [
+                  "https://www.artforum.com/news/guillaume-desanges-to-lead-palais-de-tokyo-87616",
+                  {
+                     "_href": "https://www.artforum.com/news/guillaume-desanges-to-lead-palais-de-tokyo-87616"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/guillaume-desanges-to-lead-palais-de-tokyo-87616"
+               },
+               "description": "Independent curator and critic Guillaume D&eacute;sanges has been named the next president of the Palais de Tokyo, Paris. Known for his innovative and atypical programming, D&eacute;sanges replaces Emma Lavigne.",
+               "creator": {},
+               "pubDate": "Tue, 11 Jan 2022 15:46:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Jimmy Raskin",
+               "link": [
+                  "https://www.artforum.com/picks/jimmy-raskin-87615",
+                  {
+                     "_href": "https://www.artforum.com/picks/jimmy-raskin-87615"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/picks/jimmy-raskin-87615"
+               },
+               "description": "Jimmy Raskin is an aberrant poet who reveals himself on rare and vital occasions, like &ldquo;a kind of ten-year cicada,&rdquo; as critic John Reed once wrote. His work is often a whirlwind of chaotic, exciting,",
+               "creator": {
+                  "__text": "Gabriel H. Sanchez"
+               },
+               "pubDate": "Tue, 11 Jan 2022 15:44:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Miguel%20Abreu%20Gallery%20%7C%20Orchard%20Street%2C%20New%20York",
+                     "__text": "Miguel Abreu Gallery | Orchard Street, New York"
+                  },
+                  {
+                     "_domain": "https://www.artforum.com/search?search=New%20York",
+                     "__text": "New York"
+                  }
+               ]
+            },
+            {
+               "title": "J. M. W. Turner in Texas",
+               "link": [
+                  "https://www.artforum.com/slant/blood-meridian-87607",
+                  {
+                     "_href": "https://www.artforum.com/slant/blood-meridian-87607"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/slant/blood-meridian-87607"
+               },
+               "description": "TO VIEW A J. M. W. TURNER sunset in Texas, as I did recently in Fort Worth at the Kimbell Art Museum&rsquo;s &ldquo;Turner&rsquo;s Modern World&rdquo;&mdash;an exhibition making its stateside debut after premiering at Tate Britain",
+               "creator": {
+                  "__text": "Jack Christian"
+               },
+               "pubDate": "Tue, 11 Jan 2022 12:05:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/slant",
+                     "__text": "Slant"
+                  }
+               ]
+            },
+            {
+               "title": "Richard Klein Steps Down as Exhibitions Director at the Aldrich Contemporary Art Museum",
+               "link": [
+                  "https://www.artforum.com/news/richard-klein-steps-down-as-exhibitions-director-at-the-aldrich-contemporary-art-museum-87614",
+                  {
+                     "_href": "https://www.artforum.com/news/richard-klein-steps-down-as-exhibitions-director-at-the-aldrich-contemporary-art-museum-87614"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/richard-klein-steps-down-as-exhibitions-director-at-the-aldrich-contemporary-art-museum-87614"
+               },
+               "description": "Richard Klein, who has served as exhibitions director at the Aldrich Contemporary Art Museum for more than thirty years, is departing the Ridgefield, Connecticut, institution to pursue independent",
+               "creator": {},
+               "pubDate": "Tue, 11 Jan 2022 10:51:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Uruguay’s First Contemporary Art Museum Opens",
+               "link": [
+                  "https://www.artforum.com/news/uruguay-s-first-contemporary-art-museum-opens-87613",
+                  {
+                     "_href": "https://www.artforum.com/news/uruguay-s-first-contemporary-art-museum-opens-87613"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/uruguay-s-first-contemporary-art-museum-opens-87613"
+               },
+               "description": "Uruguay on January 8 inaugurated its first major contemporary art museum. The hotly anticipated Museo de Arte Contemporaneo Atchugarry (MACA), located in the coastal resort town of Punta del Este, opened",
+               "creator": {},
+               "pubDate": "Mon, 10 Jan 2022 18:00:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Ireland to Launch Universal Basic Income Program for Artists",
+               "link": [
+                  "https://www.artforum.com/news/ireland-to-launch-universal-basic-income-program-for-artists-87612",
+                  {
+                     "_href": "https://www.artforum.com/news/ireland-to-launch-universal-basic-income-program-for-artists-87612"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/ireland-to-launch-universal-basic-income-program-for-artists-87612"
+               },
+               "description": "Catherine Martin, Ireland&rsquo;s minister of tourism, culture, arts, Gaeltacht, sport and media, on January 6 initiated an online consultation aimed at soliciting opinions regarding the creation of a basic",
+               "creator": {},
+               "pubDate": "Mon, 10 Jan 2022 16:22:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Talia Chetrit",
+               "link": [
+                  "https://www.artforum.com/picks/talia-chetrit-87611",
+                  {
+                     "_href": "https://www.artforum.com/picks/talia-chetrit-87611"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/picks/talia-chetrit-87611"
+               },
+               "description": "The sixteen works on view in Talia Chetrit&rsquo;s sixth solo exhibition at this gallery span twenty-seven years of the artist&rsquo;s work, going back to early black-and-white silver gelatin prints taken during",
+               "creator": {
+                  "__text": "Federico Sargentone"
+               },
+               "pubDate": "Mon, 10 Jan 2022 10:39:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/search?search=kaufmann%20repetto%2C%20Milan",
+                     "__text": "kaufmann repetto, Milan"
+                  },
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Milan",
+                     "__text": "Milan"
+                  }
+               ]
+            },
+            {
+               "title": "Tracey Emin to Found Art School in Disused Mortuary",
+               "link": [
+                  "https://www.artforum.com/news/tracey-emin-to-found-art-school-in-disused-mortuary-87610",
+                  {
+                     "_href": "https://www.artforum.com/news/tracey-emin-to-found-art-school-in-disused-mortuary-87610"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/tracey-emin-to-found-art-school-in-disused-mortuary-87610"
+               },
+               "description": "Turner Prize&ndash;winning artist Tracey Emin is establishing an art school and museum in the port town of Margate on England&rsquo;s southeast coast, where she grew up. The school, to be christened TKE Studios (",
+               "creator": {},
+               "pubDate": "Fri, 07 Jan 2022 17:49:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Bengi Ünsal to Lead London ICA",
+               "link": [
+                  "https://www.artforum.com/news/bengi-uensal-to-lead-london-ica-87609",
+                  {
+                     "_href": "https://www.artforum.com/news/bengi-uensal-to-lead-london-ica-87609"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/bengi-uensal-to-lead-london-ica-87609"
+               },
+               "description": "Bengi &Uuml;nsal has been announced as the next director of London&rsquo;s Institute of Contemporary Arts (ICA), becoming the first woman to helm the museum in fifty-five years. She is the first director appointed",
+               "creator": {},
+               "pubDate": "Fri, 07 Jan 2022 15:50:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Highlights from Patric Dicaprio’s Top Ten",
+               "link": [
+                  "https://www.artforum.com/video/highlights-from-patric-dicaprio-s-top-ten-87605",
+                  {
+                     "_href": "https://www.artforum.com/video/highlights-from-patric-dicaprio-s-top-ten-87605"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/video/highlights-from-patric-dicaprio-s-top-ten-87605"
+               },
+               "description": "Patric Dicaprio is a New York&ndash;based fashion designer and a cofounder and the creative director of Vaquera, a ready-to-wear label focused on redefining luxury fashion. Vaquera is in partnership with",
+               "creator": {},
+               "pubDate": "Fri, 07 Jan 2022 00:00:00 -0500"
+            },
+            {
+               "title": "Nicole Eisenman",
+               "link": [
+                  "https://www.artforum.com/spotlight/vielmetter-87608",
+                  {
+                     "_href": "https://www.artforum.com/spotlight/vielmetter-87608"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/spotlight/vielmetter-87608"
+               },
+               "description": "Vielmetter Los Angeles is honored to present Nicole Eisenman's 2019 sculpture Man at the Center of Men. Sculpted from plaster, foam, fiberglass, and epoxy resin, Man at the Center of Men is exemplary",
+               "creator": {},
+               "pubDate": "Fri, 07 Jan 2022 00:00:00 -0500"
+            },
+            {
+               "title": "Luciano Perna (1958–2021)",
+               "link": [
+                  "https://www.artforum.com/news/luciano-perna-1958-2021-87603",
+                  {
+                     "_href": "https://www.artforum.com/news/luciano-perna-1958-2021-87603"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/luciano-perna-1958-2021-87603"
+               },
+               "description": "Conceptual artist Luciano Perna, known for his typically absurd Arte Povera&ndash;influenced found-object sculptures and his quietly evocative photographs, died December 28 in Los Angeles of a heart attack",
+               "creator": {},
+               "pubDate": "Thu, 06 Jan 2022 15:07:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Delayed Kathmandu Triennale to Open in February",
+               "link": [
+                  "https://www.artforum.com/news/delayed-kathmandu-triennale-to-open-in-february-87602",
+                  {
+                     "_href": "https://www.artforum.com/news/delayed-kathmandu-triennale-to-open-in-february-87602"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/delayed-kathmandu-triennale-to-open-in-february-87602"
+               },
+               "description": "The fourth iteration of the Kathmandu Triennale, originally slated to open in December 2020 but postponed as Covid-19 swept the globe, will open February 11. Touted by its organizers, Nepal&rsquo;s Ministry",
+               "creator": {},
+               "pubDate": "Thu, 06 Jan 2022 14:45:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Searching for Magritte in a Magritte-filled world",
+               "link": [
+                  "https://www.artforum.com/books/searching-for-magritte-in-a-magritte-filled-world-87593",
+                  {
+                     "_href": "https://www.artforum.com/books/searching-for-magritte-in-a-magritte-filled-world-87593"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/books/searching-for-magritte-in-a-magritte-filled-world-87593"
+               },
+               "description": "MAGRITTE: A LIFE,&nbsp;BY ALEX DANCHEV, WITH SARAH WHITFIELD.&nbsp;New York, New York: Pantheon, 2021. 480 pages.\n\n\n&ldquo;REN&Eacute; MAGRITTE&nbsp;is the single most significant purveyor of images to the modern world.&rdquo; Such",
+               "creator": {
+                  "__text": "Albert Mobilio"
+               },
+               "pubDate": "Thu, 06 Jan 2022 12:30:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/books",
+                     "__text": "Books"
+                  }
+               ]
+            },
+            {
+               "title": "Sotheby’s Taps Jean Qian as China Director",
+               "link": [
+                  "https://www.artforum.com/news/sotheby-s-taps-jean-qian-as-china-director-87600",
+                  {
+                     "_href": "https://www.artforum.com/news/sotheby-s-taps-jean-qian-as-china-director-87600"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/sotheby-s-taps-jean-qian-as-china-director-87600"
+               },
+               "description": "Global auction house Sotheby&rsquo;s has announced Jean Qian as its new director of operations in China. She will operate out of Shanghai, where she will work to elevate the auctioneer&rsquo;s presence in the",
+               "creator": {},
+               "pubDate": "Wed, 05 Jan 2022 16:06:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Whitechapel Gallery Director Iwona Blazwick to Step Down",
+               "link": [
+                  "https://www.artforum.com/news/whitechapel-gallery-director-iwona-blazwick-to-step-down-87599",
+                  {
+                     "_href": "https://www.artforum.com/news/whitechapel-gallery-director-iwona-blazwick-to-step-down-87599"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/whitechapel-gallery-director-iwona-blazwick-to-step-down-87599"
+               },
+               "description": "Iwona Blazwick, who has led London&rsquo;s Whitechapel Gallery for two decades, will leave her post there in April.&nbsp;She will remain affiliated with the gallery into 2023 as an independent curator. Known for",
+               "creator": {},
+               "pubDate": "Wed, 05 Jan 2022 14:35:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "“Les Flammes: L’Âge de la céramique”",
+               "link": [
+                  "https://www.artforum.com/picks/les-flammes-l-age-de-la-ceramique-87598",
+                  {
+                     "_href": "https://www.artforum.com/picks/les-flammes-l-age-de-la-ceramique-87598"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/picks/les-flammes-l-age-de-la-ceramique-87598"
+               },
+               "description": "Heroically recontextualizing contemporary ceramics within a long history of clay idols and vessels, this Anne Dressen&ndash;curated exhibition comprises over 350 works made between the Neolithic period and",
+               "creator": {
+                  "__text": "Mara Hoberman"
+               },
+               "pubDate": "Wed, 05 Jan 2022 14:00:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Mus%C3%A9e%20d%27Art%20Moderne%20de%20Paris%2C%20Paris",
+                     "__text": "Musée d'Art Moderne de Paris, Paris"
+                  },
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Paris",
+                     "__text": "Paris"
+                  }
+               ]
+            },
+            {
+               "title": "Faith Ringgold Painting to Travel from Rikers Island to Brooklyn Museum",
+               "link": [
+                  "https://www.artforum.com/news/faith-ringgold-painting-to-travel-from-rikers-island-to-brooklyn-museum-87597",
+                  {
+                     "_href": "https://www.artforum.com/news/faith-ringgold-painting-to-travel-from-rikers-island-to-brooklyn-museum-87597"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/faith-ringgold-painting-to-travel-from-rikers-island-to-brooklyn-museum-87597"
+               },
+               "description": "A Fatih Ringgold work dating to 1972 will move from the Rikers Island Correctional Institution for Women, where it has resided for five decades, to the Brooklyn Museum following a review by New York",
+               "creator": {},
+               "pubDate": "Wed, 05 Jan 2022 12:34:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "David Zwirner to Establish Montauk Artists’ Retreat",
+               "link": [
+                  "https://www.artforum.com/news/david-zwirner-to-establish-montauk-artists-retreat-87596",
+                  {
+                     "_href": "https://www.artforum.com/news/david-zwirner-to-establish-montauk-artists-retreat-87596"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/david-zwirner-to-establish-montauk-artists-retreat-87596"
+               },
+               "description": "Mega gallerist David Zwirner and his wife Monica Zwirner are in the process of establishing an artists&rsquo; retreat in the newly tony Long Island getaway town of Montauk. The news was first reported by the",
+               "creator": {},
+               "pubDate": "Tue, 04 Jan 2022 18:00:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Courtenay Finn Named Chief Curator of Orange County Museum of Art",
+               "link": [
+                  "https://www.artforum.com/news/courtenay-finn-named-chief-curator-of-orange-county-museum-of-art-87595",
+                  {
+                     "_href": "https://www.artforum.com/news/courtenay-finn-named-chief-curator-of-orange-county-museum-of-art-87595"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/courtenay-finn-named-chief-curator-of-orange-county-museum-of-art-87595"
+               },
+               "description": "The Orange County Museum of Art (OCMA) yesterday revealed the appointment of Courtenay Finn as chief curator. Finn will assume her new role in March, departing the Museum of Contemporary Art Cleveland,",
+               "creator": {},
+               "pubDate": "Tue, 04 Jan 2022 17:16:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "The Poetry Project’s New Year’s tradition perseveres",
+               "link": [
+                  "https://www.artforum.com/diary/the-poetry-project-s-new-year-s-tradition-perseveres-87592",
+                  {
+                     "_href": "https://www.artforum.com/diary/the-poetry-project-s-new-year-s-tradition-perseveres-87592"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/diary/the-poetry-project-s-new-year-s-tradition-perseveres-87592"
+               },
+               "description": "IT WAS IMPORTANT TO ME to be there for it all: the Poetry Project&rsquo;s Forty-Eighth Annual New Year&rsquo;s Day Marathon reading. Beginning at 11 a.m. and ending just after midnight, the fundraiser is my",
+               "creator": {
+                  "__text": "Jess Barbagallo"
+               },
+               "pubDate": "Tue, 04 Jan 2022 16:07:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/diary",
+                     "__text": "Diary"
+                  }
+               ]
+            },
+            {
+               "title": "Sarah Morris",
+               "link": [
+                  "https://www.artforum.com/spotlight/white-cube-87594",
+                  {
+                     "_href": "https://www.artforum.com/spotlight/white-cube-87594"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/spotlight/white-cube-87594"
+               },
+               "description": "White Cube Bermondsey is pleased to present an exhibition of new works by Sarah Morris. Featuring film, paintings and works on paper that explore&nbsp;and create an architecture of forms, the exhibition",
+               "creator": {},
+               "pubDate": "Tue, 04 Jan 2022 00:00:00 -0500"
+            },
+            {
+               "title": "Teresa Iarocci Mavica Out as Director General of Moscow’s V-A-C Foundation",
+               "link": [
+                  "https://www.artforum.com/news/teresa-iarocci-mavica-out-as-director-general-of-moscow-s-v-a-c-foundation-87591",
+                  {
+                     "_href": "https://www.artforum.com/news/teresa-iarocci-mavica-out-as-director-general-of-moscow-s-v-a-c-foundation-87591"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/news/teresa-iarocci-mavica-out-as-director-general-of-moscow-s-v-a-c-foundation-87591"
+               },
+               "description": "Italian-born curator Teresa Iaroccci Mavica is departing Moscow&rsquo;s V-A-C Foundation, the arts organization she cofounded over a decade ago with Leonid Mikhelson, the billionaire owner of Russian natural",
+               "creator": {},
+               "pubDate": "Mon, 03 Jan 2022 17:49:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/news",
+                     "__text": "News"
+                  }
+               ]
+            },
+            {
+               "title": "Cathy Josefowitz",
+               "link": [
+                  "https://www.artforum.com/picks/cathy-josefowitz-87590",
+                  {
+                     "_href": "https://www.artforum.com/picks/cathy-josefowitz-87590"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/picks/cathy-josefowitz-87590"
+               },
+               "description": "Pregnant women, harlequins, and human-animal composites appear throughout &ldquo;The Thinking Body,&rdquo; the largest retrospective ever dedicated New York&ndash;born Swiss national Cathy Josefowitz (1956&ndash;2014). Around",
+               "creator": {
+                  "__text": "Mara Hoberman"
+               },
+               "pubDate": "Mon, 03 Jan 2022 13:09:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Centre%20Culturel%20Suisse%2C%20Paris%2C%20Paris",
+                     "__text": "Centre Culturel Suisse, Paris, Paris"
+                  },
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Paris",
+                     "__text": "Paris"
+                  }
+               ]
+            },
+            {
+               "title": "Paula Rego",
+               "link": [
+                  "https://www.artforum.com/spotlight/victoria-miro-87570",
+                  {
+                     "_href": "https://www.artforum.com/spotlight/victoria-miro-87570"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/spotlight/victoria-miro-87570"
+               },
+               "description": "Victoria Miro is delighted to present &ldquo;The Forgotten,&rdquo; a major exhibition by Paula Rego. Held across the entirety of its Wharf Road spaces, the gallery&rsquo;s first solo exhibition by the artist brings",
+               "creator": {},
+               "pubDate": "Mon, 03 Jan 2022 00:00:00 -0500"
+            },
+            {
+               "title": "January 2022",
+               "link": [
+                  "https://www.artforum.com/print/202201",
+                  {
+                     "_href": "https://www.artforum.com/print/202201"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/202201"
+               },
+               "description": "",
+               "creator": {},
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500"
+            },
+            {
+               "title": "Claudia Gutiérrez",
+               "link": [
+                  "https://www.artforum.com/print/reviews/202201/claudia-gutierrez-87463",
+                  {
+                     "_href": "https://www.artforum.com/print/reviews/202201/claudia-gutierrez-87463"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/reviews/202201/claudia-gutierrez-87463"
+               },
+               "description": "Santiago, like many of the world&rsquo;s capitals, is an excessively dense city. Roughly 40 percent of Chile&rsquo;s population lives there, with the greatest concentration living on the outskirts of the metropolis.",
+               "creator": {
+                  "__text": "Mariairis Flores Leiva"
+               },
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Galeria%20AFA%2C%20Santiago",
+                     "__text": "Galeria AFA, Santiago"
+                  },
+                  {
+                     "_domain": "https://www.artforum.com/search?search=Santiago",
+                     "__text": "Santiago"
+                  }
+               ]
+            },
+            {
+               "title": "Thomas Crow on Billy Apple",
+               "link": [
+                  "https://www.artforum.com/print/202201/thomas-crow-on-billy-apple-87438",
+                  {
+                     "_href": "https://www.artforum.com/print/202201/thomas-crow-on-billy-apple-87438"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/202201/thomas-crow-on-billy-apple-87438"
+               },
+               "description": "THOUGH HE WAS much else besides, Billy Apple had a convincing claim to have been the consummate artist of Pop, the one who pursued its implications so thoroughly as to have achieved escape velocity",
+               "creator": {
+                  "__text": "Thomas Crow"
+               },
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/passages",
+                     "__text": "Passages"
+                  }
+               ]
+            },
+            {
+               "title": "Allen Ruppersberg on Margo Leavin",
+               "link": [
+                  "https://www.artforum.com/print/202201/allen-ruppersberg-on-margo-leavin-87439",
+                  {
+                     "_href": "https://www.artforum.com/print/202201/allen-ruppersberg-on-margo-leavin-87439"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/202201/allen-ruppersberg-on-margo-leavin-87439"
+               },
+               "description": "IT IS A FORMIDABLE TASK to write of Margo Leavin in the past tense, as she was always a grand presence when she was still among us. Whether ensconced&mdash;along with her partner, Wendy Brandow&mdash;at the",
+               "creator": {
+                  "__text": "Allen Ruppersberg"
+               },
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/passages",
+                     "__text": "Passages"
+                  }
+               ]
+            },
+            {
+               "title": "Amy Taubin on Apichatpong Weerasethakul’s Memoria",
+               "link": [
+                  "https://www.artforum.com/print/202201/amy-taubin-on-apichatpong-weerasethakul-s-memoria-87440",
+                  {
+                     "_href": "https://www.artforum.com/print/202201/amy-taubin-on-apichatpong-weerasethakul-s-memoria-87440"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/202201/amy-taubin-on-apichatpong-weerasethakul-s-memoria-87440"
+               },
+               "description": "FIRST, WE SEE A ROOM. It is dark, too dark to make out details or even the colors hinted at in various shades of gray. There seems to be a bed and perhaps a person asleep under the covers. Just when",
+               "creator": {
+                  "__text": "Amy Taubin"
+               },
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/film",
+                     "__text": "Film"
+                  }
+               ]
+            },
+            {
+               "title": "Anna Shechtman and D. A. Miller on Pedro Almodóvar’s Parallel Mothers",
+               "link": [
+                  "https://www.artforum.com/print/202201/anna-shechtman-and-d-a-miller-on-pedro-almodovar-s-parallel-mothers-87441",
+                  {
+                     "_href": "https://www.artforum.com/print/202201/anna-shechtman-and-d-a-miller-on-pedro-almodovar-s-parallel-mothers-87441"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/202201/anna-shechtman-and-d-a-miller-on-pedro-almodovar-s-parallel-mothers-87441"
+               },
+               "description": "A SOCIAL ANTHROPOLOGY of Almod&oacute;var country would duly remark the profusion of single mothers and sisterly subcultures. The most obvious explanation for this phenomenon is the no less abundant population",
+               "creator": {
+                  "__text": "Anna Shechtman and D. A. Miller"
+               },
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/film",
+                     "__text": "Film"
+                  }
+               ]
+            },
+            {
+               "title": "Michael Lobel on Romare Bearden in the 1930s",
+               "link": [
+                  "https://www.artforum.com/print/202201/michael-lobel-on-romare-bearden-in-the-1930s-87442",
+                  {
+                     "_href": "https://www.artforum.com/print/202201/michael-lobel-on-romare-bearden-in-the-1930s-87442"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/202201/michael-lobel-on-romare-bearden-in-the-1930s-87442"
+               },
+               "description": "SO AS NOT TO BURY THE LEDE, as the old journalistic saying goes, I&rsquo;ll make things perfectly clear right from the outset: It&rsquo;s very likely that this 1936 black-and-white photo of a protest in Brooklyn",
+               "creator": {
+                  "__text": "Michael Lobel"
+               },
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500"
+            },
+            {
+               "title": "Patric Dicaprio shares his Top Ten",
+               "link": [
+                  "https://www.artforum.com/print/202201/patric-dicaprio-shares-his-top-ten-87443",
+                  {
+                     "_href": "https://www.artforum.com/print/202201/patric-dicaprio-shares-his-top-ten-87443"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/202201/patric-dicaprio-shares-his-top-ten-87443"
+               },
+               "description": "Patric Dicaprio is a New York&ndash;based fashion designer and a cofounder and the creative director of Vaquera, a ready-to-wear label focused on redefining luxury fashion. Vaquera is in partnership with",
+               "creator": {},
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500",
+               "category": [
+                  {
+                     "_domain": "https://www.artforum.com/topten",
+                     "__text": "Top Ten"
+                  }
+               ]
+            },
+            {
+               "title": "Domenick Ammirati on the New Museum’s 2021 Triennial, Greater New York 2021 at MoMA PS1, and Rosemary Mayer at Swiss Institute",
+               "link": [
+                  "https://www.artforum.com/print/202201/domenick-ammirati-on-the-new-museum-s-2021-triennial-greater-new-york-2021-at-moma-ps1-and-rosemary-mayer-at-swiss-institute-87444",
+                  {
+                     "_href": "https://www.artforum.com/print/202201/domenick-ammirati-on-the-new-museum-s-2021-triennial-greater-new-york-2021-at-moma-ps1-and-rosemary-mayer-at-swiss-institute-87444"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/202201/domenick-ammirati-on-the-new-museum-s-2021-triennial-greater-new-york-2021-at-moma-ps1-and-rosemary-mayer-at-swiss-institute-87444"
+               },
+               "description": "1\n\n\nIN A WORLD WHERE CONTINGENCY has never loomed larger, why not begin with a book found lying on the street? At the beginning of autumn, which seemed like nothing but an extension of a hot,",
+               "creator": {
+                  "__text": "Domenick Ammirati"
+               },
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500"
+            },
+            {
+               "title": "Daniel Marcus on the art of Hannah Wilke",
+               "link": [
+                  "https://www.artforum.com/print/202201/daniel-marcus-on-the-art-of-hannah-wilke-87445",
+                  {
+                     "_href": "https://www.artforum.com/print/202201/daniel-marcus-on-the-art-of-hannah-wilke-87445"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/202201/daniel-marcus-on-the-art-of-hannah-wilke-87445"
+               },
+               "description": "WRITER CHRIS KRAUS devotes a long section of her 1997 book I Love Dick to artist Hannah Wilke, who had passed away from lymphoma a few years earlier. Identifying with Wilke&rsquo;s reputation as a &ldquo;female",
+               "creator": {
+                  "__text": "Daniel Marcus"
+               },
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500"
+            },
+            {
+               "title": "Mostafa Heddaya on the comparative complex",
+               "link": [
+                  "https://www.artforum.com/print/202201/mostafa-heddaya-on-the-comparative-complex-87446",
+                  {
+                     "_href": "https://www.artforum.com/print/202201/mostafa-heddaya-on-the-comparative-complex-87446"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/202201/mostafa-heddaya-on-the-comparative-complex-87446"
+               },
+               "description": "SOMETIME IN JANUARY 2016,&nbsp;the Instagram profile known as &ldquo;@whos&#65343;&#65343;&#65343;&#65343;who&rdquo; went live. Who is who? A big question, in general. Anonymous and prolific, the account places apparently similar images, usually",
+               "creator": {
+                  "__text": "Mostafa Heddaya"
+               },
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500"
+            },
+            {
+               "title": "Devan Díaz on Drake Carr",
+               "link": [
+                  "https://www.artforum.com/print/202201/openings-drake-carr-87447",
+                  {
+                     "_href": "https://www.artforum.com/print/202201/openings-drake-carr-87447"
+                  }
+               ],
+               "guid": {
+                  "_isPermaLink": "true",
+                  "__text": "https://www.artforum.com/print/202201/openings-drake-carr-87447"
+               },
+               "description": "IF DRAKE CARR wants to see something sexy, he&rsquo;ll make it himself. It began in the first grade with tracing superheroes in full regalia, but soon the clothes came off. &ldquo;When my drawings started to",
+               "creator": {
+                  "__text": "Devan Díaz"
+               },
+               "pubDate": "Sat, 01 Jan 2022 00:00:00 -0500"
+            }
+         ]
+      },
+      "_xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "_xmlns:media": "http://search.yahoo.com/mrss/",
+      "_xmlns:atom": "http://www.w3.org/2005/Atom",
+      "_version": "2.0"
+   }
+}
