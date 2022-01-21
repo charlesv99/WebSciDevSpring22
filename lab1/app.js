@@ -1,3 +1,4 @@
+window.scrollTo(0, document.body.scrollHeight || document.documentElement.scrollHeight);
 function load(x){
     var i=0;
     function loop(){
