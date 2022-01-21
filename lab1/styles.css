@@ -1,32 +1,50 @@
-/* (A) STANDARD ROW HEIGHT */
-.vwrap{
-    height: 100%;
+
+body {
+  margin-top: 3em;
+  background-color: #2E4052;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.articles {
+  box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #33485B;
+  position: relative;
+  flex-direction: column;
+  display: flex;
+  margin-bottom: 4em;
+  width: 75vw;
+}
+.txtCont {
+  padding: 1em;
+  font-family: sans-serif;
+
+}
+img {
+  width: 100%;
+}
+a {
+  width: 100%;
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.title {
+  font-weight: bold;
+  font-size: larger;
+  text-align: center;
+}
+
+.author {
+  padding-bottom: .5em;
+  text-align: center;
+  font-weight: lighter;
+}
+
+@media only screen and (max-width: 600px) {
+  .articles  {
+    width: 100vw !important;
   }
-   
-  /* (B) FIXED WRAPPER */
-  .vwrap {
-    overflow: hidden; /* HIDE SCROLL BAR */
-    background: #eee;
-  }
-  /* (C) TICKER ITEMS */
-  .vitem { text-align: center; 
-height: 20%;}
-   
-  /* (D) ANIMATION - MOVE ITEMS FROM TOP TO BOTTOM */
-  /* CHANGE KEYFRAMES IF YOU ADD/REMOVE ITEMS */
-  .vmove { position: relative; }
-  @keyframes tickerv {
-    0% { bottom: 0; } /* FIRST ITEM */
-    20% { bottom: 20px; } /* SECOND ITEM */
-    40% { bottom: 40px; } /* THIRD ITEM */
-    60% { bottom: 60px; } /* FORTH ITEM */
-    80% { bottom: 80px; }
-    100% { bottom: 0; } /* BACK TO FIRST */
-  }
-  .vmove {
-    animation-name: tickerv;
-    animation-duration: 10s;
-    animation-iteration-count: infinite;
-    animation-timing-function: cubic-bezier(1, 0, .5, 0);
-  }
-  .vmove:hover { animation-play-state: paused; }
+}
