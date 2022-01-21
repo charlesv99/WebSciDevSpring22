@@ -22,11 +22,11 @@ $(function(){
         for(let i=0;i<data.articles.length;i++){
           var mydata=data.articles[i];
           var author=mydata.author;
-          var cont=mydata.content;
           var desc=mydata.description;
-          var words=`<div>${author}</div>`;
+          var words=`<div>${desc}</div>`;
           art.push(words)
+
         }
-    load(art);
+    load(data);
     });
    });
