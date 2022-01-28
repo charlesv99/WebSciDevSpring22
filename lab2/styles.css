@@ -1,0 +1,18 @@
+body {
+    margin-top: 3em;
+    background-color: #2E4052;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #weatherContainer {
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #33485B;
+    position: relative;
+    flex-direction: column;
+    display: flex;
+    margin-bottom: 4em;
+    width: 75vw;
+  }
