@@ -2,14 +2,52 @@
 <html lang="en">
 <head>
     <title>DQuoteAPI</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+    <style>
+    #display {
+        text-align: center;
+    }
+    #butt {
+        position: fixed;
+        margin: 0 auto;
+        bottom: 2rem;
+        background: url(https://res.cloudinary.com/dv0ey47hj/image/upload/v1644262660/dice-shield_bbkouc.svg) no-repeat top left;
+        background-size: contain;
+        height: 100px;
+        width: 100px;
+        border: none;
+    }   
+    #cont {
+        text-align: center;
 
-    <div id="toolbar"></div>
+    }
+    body {
+        background-color: #457;
+    }
+    </style>
+</head>
+
+<body>
+    <div id="display"></div>
     <div id="cont">
-        <h1>Hey from DQuote!</h1>
+        <h1 id="quote">Hey from DQuote!</h1>
+        <h3 id="author"></h3>
+    </div> 
+        <button id="butt"></button>
     </div>
     
 </body>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+    const butt = document.getElementById('butt');
+    console.log(butt);
+    butt.addEventListener('click', function(){
+        axios
+            .get('/generate')
+            .then(e => { 
+                console.log(e.data);
+                document.getElementById('quote').innerHTML=e.data.text;
+                document.getElementById('author').innerHTML='-'+e.data.author.name;
+            });
+    });
+</script>
 </html>
