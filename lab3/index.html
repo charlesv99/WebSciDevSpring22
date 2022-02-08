@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head >
     <title>DQuoteAPI</title>
     <style>
     #display {
@@ -17,24 +17,27 @@
         border: none;
     }   
     #cont {
+        padding: 15% 15% 15% 15%;
+    }
+    #quote {
+        font-size: 50px;
+    }
+    #cont {
         text-align: center;
 
-    }
-    body {
-        background-color: #457;
     }
     </style>
 </head>
 
-<body>
-    <div id="display"></div>
-    <div id="cont">
-        <h1 id="quote">Hey from DQuote!</h1>
-        <h3 id="author"></h3>
-    </div> 
-        <button id="butt"></button>
+<body onload="scheme()">
+    <div id="display">
+        <div id="cont">
+            <h1 id="quote">Hey from DQuote!</h1>
+            <h3 id="author"></h3>
+        </div> 
+            <button id="butt"></button>
+        </div>
     </div>
-    
 </body>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 <script>
@@ -44,10 +47,24 @@
         axios
             .get('/generate')
             .then(e => { 
-                console.log(e.data);
                 document.getElementById('quote').innerHTML=e.data.text;
                 document.getElementById('author').innerHTML='-'+e.data.author.name;
             });
+        axios
+        .get('/scheme')
+            .then(e=> {
+                document.getElementById('quote').style.color = e.data[2];
+                document.getElementById('author').style.color = e.data[1];
+                document.body.style.backgroundColor = e.data[3];
+            });
     });
+    function scheme(){
+        axios
+        .get('/scheme')
+            .then(e=> {
+                document.getElementById('quote').style.color = e.data[2];
+                document.body.style.backgroundColor = e.data[3];
+            });
+    }
 </script>
 </html>
