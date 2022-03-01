@@ -1,0 +1,18 @@
+<body>
+    <div class="container">
+        <h1 id="status">Where To?</h1>
+        <form action="index.html" method="get" id="form">
+            <input type="text" value="Zip Code" onfocus="this.value=''">
+            <input type="submit" value="Submit"> 
+        </form>
+
+        <button id="temp">Temperature</button>
+        <button id="wind">Is RPI Windy?</button>
+    </div>
+</body>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+const form = document.getElementById("form");
+console.log(form.elements[0].value);
+</script>
