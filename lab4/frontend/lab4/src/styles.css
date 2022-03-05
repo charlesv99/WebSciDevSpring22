@@ -1,24 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
-body{
-    margin: 0;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+/* button {
+    border: none;
+    background-color: transparent;
+    place-content: center;
+}
+.parent{
+    font-family: serif;
     font-size: 20PX;
+    display: grid;
+    place-items: center;
 }
 
 .container {
-    width: 80%;
-    margin: 0 auto;
-}
+    background-color: aquamarine;
 
-.footer {
-    position: fixed;
-    bottom: 1em;
-    width: 100%;
-    text-align: center;
-   
-}
-
-button {
-    border: none;
-    background-color: transparent;
-}
+} */
