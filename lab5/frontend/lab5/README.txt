@@ -14,5 +14,4 @@ and a seperate component for the data base calls for Part 3.
  I than started to do some research on mongodb
  I am struggling with how to connect mongodb efficiently
 
-
-
+i feel like this lab needed more time.
