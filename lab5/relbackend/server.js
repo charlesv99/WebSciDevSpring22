@@ -1,69 +1,100 @@
 const path = require('path');
 const express = require('express');
-const app =express();
 const axios = require('axios');
-const { MongoClient, ServerApiVersion } = require('mongodb');
-var database
+const bodyParser = require('body-parser')
+const https = require('https')
+const fs =  require('fs')
+const app =express();
 
 app.use(express.static(path.join(__dirname, '../frontend/lab5/dist/lab5')));
 
-async function main() {
-    const uri = "mongodb+srv://cmv:palermo@lab5.taxac.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
-    const client = new MongoClient(uri);
+const { MongoClient, ServerApiVersion } = require('mongodb');
+const uri = "mongodb+srv://cmv:palermo@lab5.taxac.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const client = new MongoClient(uri);
 
-    try{
-        await client.connect();
-        console.log("connected")
-        // for(let i=1;i<=100;i++){
-        //     await addQuote(client, {
-        //         _id:i,
-        //         text:"response.data.text",
-        //         author:"response.data.author.name"
-        //     });
-        // }
-        await listQuotes(client);
-    } catch (e) {
-        console.error(e);
-    } finally {
-        await client.close();
-    }
-}
+const cors = require('cors');
+app.use(cors({
+    origin: '*'
+}));
+app.use(bodyParser.urlencoded({
+    extended: true
+}));
+app.use(bodyParser.json());
 
-main().catch(console.error);
 
-async function addQuote(client, newQuote) {
-    const result = await client.db("LAB5").collection("quotes").insertOne(newQuote);
-    console.log('hello-'+result.insertedId);
-}
-
-async function fillQuotes(client) {
-    for(let i=1;i<=3;i++){
-        axios.get('https://api.fisenko.net/v1/quotes/en/random')
-        .then(function (response) {
-            addQuote(client, {
-                id:i,
-                text:response.data.text,
-                author:response.data.author.name
-            });
-        });
-    }
-}
-
-async function listQuotes(client) {
-    const quotesList = await client.db("LAB5").collection("quotes").find();
-    console.log(quotesList);
-
-    console.log("quotes:");
-    databasesList.databases.forEach(db => {
-        console.log('- '+db.name);
-    })
-}
 app.get('/db', (req, res) => {
-    listQuotes(client);
-})
+    client.connect(err => {
+        const collection = client.db("LAB5").collection("quotes");
+        const items = collection.find({}).toArray();
+        items.then((result) => { 
+            client.close();
+            res.send(result);
+        })
+    })
+});
+
+app.post('/db', (req,res)=> {
+    client.connect(err => {
+        const collection = client.db("LAB5").collection("quotes");
+        collection.insertOne(req.body);
+    })
+    res.send({"msg": "200"});
+});
+
+app.get('/db/:number', (req, res) => {
+    client.connect(err => {
+        const collection = client.db("LAB5").collection("quotes");
+        const items = collection.find({"_id":req.params.number}).toArray();
+        items.then((result) => { 
+            client.close();
+            res.send(result);
+        })
+    })
+});
+
+app.post('/db/:number', (req, res) => {
+    res.status(404);
+    res.send({"msg": "404"});
+});
+
+app.put('/db/:number', (req, res) => {
+    client.connect(err => {
+        const collection = client.db("LAB5").collection("quotes");
+        const filter = {"_id": req.params.number};
+        const newDoc = {$set: req.body};
+        collection.updateMany(filter, newDoc, {upsert: false})
+        .then((result) => {
+            if(result["matchedCount"] == 0) {
+                res.status(404);
+                res.send({"msg": "404"});
+            }
+            else {
+                res.send({"msg": "200"});
+            }
+        })
+    })
+});
+
+app.delete('/db/:number', (req, res) => {
+    client.connect(err => {
+        const collection = client.db("LAB5").collection("quotes");
+        const filter = {"_id": req.params.number};
+        collection.deleteMany(filter, (errr, obj) => {
+            if(errr)
+                throw errr;
+            if(obj.deletedCount == 0) {
+                res.status(404);
+                res.send({"msg": "404"});
+            }
+            else {
+                res.send({"msg": "200"});
+            }
+        })
+    })
+});
+
 
 app.get('/generate', (req, res) => {
-    
     axios.get('https://api.fisenko.net/v1/quotes/en/random')
     .then(function (response) {
         res.send(response.data);
@@ -72,9 +103,7 @@ app.get('/generate', (req, res) => {
     .catch(function (error) {
         console.log(error);
     });
-    
 });
-
 
 
 app.get('/scheme', (req, res) => {
