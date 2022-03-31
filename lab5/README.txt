@@ -18,3 +18,5 @@ I than realized i was calling my mongo completely wrong.
 I than began to work on my DB node calls 
 
 Finally i began the pt3 component which included 4 buttons and input field and a text area field that I used with corresponding ts functions to call my api.
+I made a small python script to fill the DB and test my functions
+
