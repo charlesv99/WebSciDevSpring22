@@ -1,0 +1,6 @@
+<input type="text" placeholder="Number" #number>
+<textarea rows="10" #txt></textarea>
+<button type="button" (click)="get(number.value)" class="primary">GET</button>
+<button type="button" (click)="put(number.value, txt.value)" class="primary">PUT</button>
+<button type="button" (click)="post(number.value, txt.value)"class="primary">POST</button>
+<button type="button" (click)="delete(number.value)" class="primary">DELETE</button>
