@@ -10,4 +10,5 @@ ng build --watch
 nodemon server.js
 
 
-
+using a python script I sorted through my database data and took a list of dictionaries into json.
+i than plugged this into the examples given.
