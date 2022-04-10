@@ -274,7 +274,7 @@ export class Viz2Component implements OnInit {
     }
   ];
   private svg: any;
-  private margin = 50;
+  private margin = 75;
   private width = 750;
   private height = 600;
   // The radius of the pie chart is half the smallest side
