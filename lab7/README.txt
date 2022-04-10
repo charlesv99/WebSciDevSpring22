@@ -12,3 +12,7 @@ nodemon server.js
 
 using a python script I sorted through my database data and took a list of dictionaries into json.
 i than plugged this into the examples given.
+
+https://github.com/d3/d3/wiki
+https://www.itsolutionstuff.com/post/angular-pie-chart-example-tutorialexample.html
+https://www.programiz.com/python-programming/methods/dictionary/values
