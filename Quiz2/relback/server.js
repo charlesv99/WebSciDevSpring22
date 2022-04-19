@@ -103,7 +103,7 @@ app.delete('/mongo', (req, res) => {
 
 app.delete('/mongo/:number', (req, res) => {
     client.connect(err => {
-        const filter = {"_id": parseInt(req.params.number)};
+        const filter = {"_id": req.params.number};
         collection.deleteMany(filter, (err2, obj) => {
             if(err2)
                 throw err2;
