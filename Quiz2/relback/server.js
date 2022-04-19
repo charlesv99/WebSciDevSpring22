@@ -8,16 +8,16 @@ const app =express();
 const cors = require('cors');
 
 app.use(express.static(path.join(__dirname, '../front/quiz2/dist/quiz2')));
+app.use(bodyParser.urlencoded({
+  extended: true
+}));
 
+app.use(bodyParser.json());
 app.use(cors({
     origin: '*'
 }));
 
-app.use(bodyParser.urlencoded({
-    extended: true
-}));
 
-app.use(bodyParser.json());
 
 const { MongoClient, ServerApiVersion } = require('mongodb');
 const uri = "mongodb+srv://cmv:palermo@lab5.taxac.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
